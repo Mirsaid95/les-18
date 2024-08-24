@@ -18,6 +18,7 @@
 
 
 // TASK 2
+
 // 2. “1java2script3 5deve6lo4per” shu string orasidagi sonlarni 1 ta arreyga soling, so'zlarni boshqa bir stringa o’zlashtiring va return qiling 
 
 // let str = '1java2script3 5deve6lo4per';
@@ -40,8 +41,6 @@
 
 
 
-
-
 // TASK 3 
 // 3. let numbers = [1,-5,2,3,-7]; Arreydagi sonlarni musbatini qo’shib qaytaradigan yani return qiladigan function yozish 
 
@@ -59,24 +58,3 @@
 
 // console.log(addThePositives(numbers));
 
-
-
-
-
-
-
-
-
-// TASK 4 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-// 4. arrey ichida objectlar bor userda input orqali qiymat olib arrey ichidagi object dan shu qiymatga teng bo’lgan obj topish 
-
-let arr = [
-    {
-        name: 'Abdulaziz',
-        id: 23733
-    },
-    {
-        name: 'Muhammadjon',
-        id: 23734
-    }
-];
